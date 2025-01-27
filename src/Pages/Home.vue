@@ -3,7 +3,7 @@
     <div class="banner">
       <div class="placeholder-image"></div>
       <div class="welcome-text">
-        <h1>Welcome to The Tracker!</h1>
+        <h1>Welcome to The Carbon Tracker!</h1>
         <p>Track your environmental impact through activities,</p>
         <p>Create an account or log in for access to personalised goals and information</p>
       </div>
